@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Preferencias</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recuperacion_datos">RecuperacionDatos</string>
+    <string name="boton_guardar">Guardar</string>
+</resources>
